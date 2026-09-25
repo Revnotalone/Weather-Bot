@@ -1,0 +1,11 @@
+data/
+logs/
+__pycache__/
+*.pyc
+*.log
+.venv/
+venv/
+
+# config.py berisi BOT_TOKEN asli kalau sudah kamu isi — jangan commit ke
+# repo publik. Hapus baris di bawah ini kalau memang mau di-commit privat.
+config.py
